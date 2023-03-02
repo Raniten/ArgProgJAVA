@@ -1,3 +1,7 @@
 Archivo de prueba
 Modificación añadida desde la web de github
+se modifican las 3ras líneas agregadas:
+
 3ra línea agregada en el repositorio local
+
+Tercera línea agregada desde la web de github
